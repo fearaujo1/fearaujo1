@@ -1,15 +1,6 @@
-## Oii, eu sou o Felipe Araujo, estudante do segundo ano de Engenharia de Software!
-<br>
-Aqui posto alguns 
-<div>
-  <a href="https://github.com/fearaujo1">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=fearaujo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
-  <img height="150cm" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearaujo1&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
-##
-
-##### Algumas competências
+## Felipe Araujo <br>
+# Estudante de Engenharia de Software
+# Aqui estão alguns de meus projetos desenvolvidos 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
