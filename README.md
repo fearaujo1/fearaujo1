@@ -2,7 +2,8 @@
 #### Estudante de Engenharia de Software
 #### Aqui estão alguns de meus projetos desenvolvidos, visite meus repositórios
 
-<hr> 
+<br> 
+
 #### Aqui estão algumas das tecnologias que possuo maior conhecimento
 
 <div style="display: inline_block"><br>
