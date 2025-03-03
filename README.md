@@ -1,10 +1,10 @@
 ## Felipe Araujo <br>
-#### Estudante de Engenharia de Software
-#### Visite meus repositórios
+#### Estudante de Engenharia de Software.
+#### Visite meus repositórios!!
 
 <br> 
 
-#### Aqui estão algumas das tecnologias que possuo maior conhecimento
+##### Aqui estão algumas das tecnologias que possuo maior conhecimento...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@
 
 ##
   
-##### Entre em contato comigo
+##### Entre em contato comigo!!
  
 <div> 
   <a href="https://www.instagram.com/f3lipear4ujo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
