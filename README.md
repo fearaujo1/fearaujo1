@@ -1,6 +1,6 @@
 ## Felipe Araujo <br>
 #### Estudante de Engenharia de Software
-#### Aqui estão alguns de meus projetos desenvolvidos, visite meus repositórios
+#### Visite meus repositórios
 
 <br> 
 
