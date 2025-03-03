@@ -1,4 +1,6 @@
-## Oii, eu sou o Felipe Araujo, estudante de Engenharia de Software!
+## Oii, eu sou o Felipe Araujo, estudante do segundo ano de Engenharia de Software!
+<br>
+Aqui posto alguns 
 <div>
   <a href="https://github.com/fearaujo1">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=fearaujo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
@@ -15,10 +17,9 @@
   <img align="center" alt="Felipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Felipe-BootStrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="Felipe-Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Felipe-GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Felipe-GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Felipe-VsCode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
 ##
